@@ -1190,7 +1190,10 @@ body {
   display: flex; align-items: center; justify-content: center;
 }
 
-.msg-thread-wrap { display: flex; flex-direction: column; height: 100%; }
+.msg-thread-wrap { 
+  display: flex; flex-direction: column; height: 100%;
+overflow-y:scroll;
+}
 .msg-thread-header {
   display: flex;
   align-items: center;
