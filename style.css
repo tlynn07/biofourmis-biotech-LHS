@@ -11,7 +11,7 @@
   --blue-200: #cad9fe;
   --blue-400: #7185f8;
   --blue-500: #4475ef;
-  --blue-600: #265adc;
+  --blue-600: #224ebc;
   --blue-700: #1c39b9;
   --blue-800: #1e2d76;
 
@@ -221,7 +221,7 @@ body {
   width: 34px; height: 34px;
   background: linear-gradient(135deg, var(--blue600), var(--blue400));
   border-radius: 50%;
-  color: #fff;
+  color: #0940ad;
   font-size: 0.75rem;
   font-weight: 700;
   display: flex;
