@@ -1230,7 +1230,7 @@ overflow-y:scroll;
   max-width: 100%;
   word-wrap: break-word;
 }
-.mine .msg-bubble { background: var(--blue600); color: #fff; border-bottom-right-radius: 4px; }
+.mine .msg-bubble { background: var(--blue600); color: #141959; border-bottom-right-radius: 4px; }
 .theirs .msg-bubble { background: var(--gray-100); color: var(--gray-800); border-bottom-left-radius: 4px; }
 .msg-meta { font-size: 0.68rem; color: var(--gray-400); margin-top: 3px; padding: 0 4px; }
 
