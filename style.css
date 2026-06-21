@@ -1,19 +1,19 @@
 /* =============================================
    MediCore Biosensor Portal — Stylesheet
-   Color scheme: White + Red
+   Color scheme: White + Blue
    ============================================= */
 
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 :root {
-  --red-50:  #fef2f2;
-  --red-100: #fee2e2;
-  --red-200: #fecaca;
-  --red-400: #f87171;
-  --red-500: #ef4444;
-  --red-600: #dc2626;
-  --red-700: #b91c1c;
-  --red-800: #991b1b;
+  --blue-50:  #fef2f2;
+  --blue-100: #e2f0fe;
+  --blue-200: #cad9fe;
+  --blue-400: #7185f8;
+  --blue-500: #4475ef;
+  --blue-600: #265adc;
+  --blue-700: #1c39b9;
+  --blue-800: #1e2d76;
 
   --gray-50:  #f9fafb;
   --gray-100: #f3f4f6;
