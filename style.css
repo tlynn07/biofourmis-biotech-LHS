@@ -249,7 +249,7 @@ body {
    =========================== */
 .sidebar {
   width: var(--sidebar-w);
-  background: #d5deef;
+  background: #e4ecf9;
   border-right: 1px solid var(--gray-200);
   display: flex;
   flex-direction: column;
